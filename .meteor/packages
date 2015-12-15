@@ -18,3 +18,22 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
+react
+kadira:react-layout
+accounts-base
+accounts-password
+aldeed:collection2
+audit-argument-checks
+browser-policy
+check
+digilord:faker
+fourseven:scss
+meteorhacks:fast-render
+meteorhacks:npm
+meteorhacks:ssr
+reactive-dict
+reactive-var
+templating
+themeteorchef:bert
+themeteorchef:jquery-validation
+twbs:bootstrap
